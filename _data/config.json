@@ -5,36 +5,6 @@
     "palette": "blue",
     "mode": "light",
     "base_font": "serif",
-    "header": {
-        "title": "Startup",
-        "logo": "images/logo.svg",
-        "logo_alt": "YourGoal logo",
-        "has_primary_nav": false,
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Get Started",
-                "url": "/thank-you",
-                "style": "primary"
-            }
-        ],
-        "has_anncmnt": false
-    },
     "footer": {
         "logo": "images/logo.svg",
         "logo_alt": "YourGoal logo",
